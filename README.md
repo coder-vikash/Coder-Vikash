@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+ [![MasterHead](https://media.tenor.com/Z5lIBiOdagsAAAAC/purple-aesthetic-rain.gif)]]
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+  <img src ="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1696433162~exp=1696433762~hmac=e6cc31469da83221848b0af5b7bb1c633cade9a28bfb3ab91a92b694698347d2" Alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-vikash&label=Profile%20views&color=0e75b6&style=flat" alt="coder-vikash" /> </p>
 
