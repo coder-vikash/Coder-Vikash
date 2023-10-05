@@ -1,7 +1,7 @@
 ![MasterHead]( https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1696434235~exp=1696434835~hmac=9cb6b3b37526439727fe64a31dc79760aa9f943b1d3d6427944fd5c2982394b8)
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-  <img src ="https://www.google.com/search?q=coder+animated+images&sca_esv=570966760&rlz=1C1CHBF_enIN1053IN1053&sxsrf=AM9HkKm9cZ0P8YivHtwRA3JJVR8PRqmhMA%3A1696507192098&ei=OKUeZYaRBYPXseMPyJarCA&oq=animated+coding+images+&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2FuaW1hdGVkIGNvZGluZyBpbWFnZXMgKgIIAzIEECMYJzIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGIoFGIYDMggQABiKBRiGAzIIEAAYigUYhgMyCBAAGIoFGIYDSPomUPgEWIQOcAF4AJABAJgB5QKgAYoOqgEHMC4xLjQuMrgBAcgBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp#vhid=USD2HNTVZ6YVTM&vssid=l" Alt="image">
+  <img src ="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=826&t=st=1696507371~exp=1696507971~hmac=02ab6b97f85b72646c8d058ff1b764b5aa22c34d2a560e1d165c0b847338a785" Alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-vikash&label=Profile%20views&color=0e75b6&style=flat" alt="coder-vikash" /> </p>
 
